@@ -1,0 +1,27 @@
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaDatos\obj\Debug\CapaDatos.pdb
