@@ -1,0 +1,113 @@
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistemas\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+D:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\Nueva carpeta\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Estado_de_Inventario.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Estado_de_Inventario.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\SAdmin-\Music\busqueda\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Estado_de_Inventario.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\EQUIP-\Desktop\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Agregar_Medicamento.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Buscar.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Estado_de_Inventario.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario_de_Ventas.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.Venta_de_Medicamento.resources
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\es\Farmacia\SisFarmaciaKemuel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
